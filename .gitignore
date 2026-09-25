@@ -32,3 +32,4 @@ audio/*.m4a
 *.tmp
 
 !.env-sample
+.env
