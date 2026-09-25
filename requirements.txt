@@ -1,6 +1,7 @@
 groq
 python-dotenv
+edge-tts
 sounddevice
 soundfile
 numpy
-edge-tts
+pyserial
